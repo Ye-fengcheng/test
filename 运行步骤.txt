@@ -1,0 +1,4 @@
+1.°²×°node -v8.9.4
+2.npm install
+3.npm run dev
+4.npm run build
